@@ -32,5 +32,5 @@
 *.app
 
 /build-*
-Souce/ITP-Project.pro.user
+Source\ITP-Project.pro.user
 Documentation/html/
